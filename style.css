@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/1623303770/photo/creative-background-image-is-blurred-evening-city-lights-and-light-snowfall.jpg?s=1024x1024&w=is&k=20&c=d9LTc-sVJNNwujJKhYGV6Gcaei5otu2PdZwtqUKGrbY='); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: cover; /* Adjust to cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    text-align: left; /* Align form elements to the left */
+}
